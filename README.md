@@ -1,60 +1,49 @@
 # STAT7008_PROJECT
-# Next step: Each group will have a project presentation at YouTube. The presentation is 8 mins and no more than 20 slides. The presentation includes your project background, problem and objectives, research methods, findings, result interpretation, and recommendation. 
-# 分工与职责：
+Next step: Each group will have a project presentation at YouTube. The presentation is 8 mins and no more than 20 slides. The presentation includes your project background, problem and objectives, research methods, findings, result interpretation, and recommendation. 
+
+分工与职责：
 ✅ 成员1：项目架构设计与数据建模
-
-工作内容：
-
 设计系统数据库结构（表结构、关系图）
 绘制面向对象程序设计类图（UML）
 编写程序主类结构与函数库框架
 撰写报告第三章中“3.2 面向对象程序设计”部分
 对应目标：目标 (1)、(2)
+
 ✅ 成员2：网络爬虫与数据收集
-
-工作内容：
-
 编写网络爬虫程序，从电商网站（如Amazon、淘宝）爬取产品信息
 清洗爬取数据，提取产品名称、类别、价格、描述等
 将数据存入数据库或CSV文件
 撰写报告中“3.1 数据来源与预处理”中关于数据收集的部分
 对应目标：目标 (3)
+
 ✅ 成员3：产品信息文本挖掘
-
-工作内容：
-
 使用文本挖掘技术（如TF-IDF、Word2Vec、LDA）分析产品描述
 提取产品关键词、主题分类、情感倾向等
 将文本特征转化为可用于推荐系统的数值特征
 撰写报告中“3.3 模型设计”中关于文本挖掘的部分
 对应目标：目标 (4)
+
 ✅ 成员4：客户交易数据分析与推荐算法
-
-工作内容：
-
 分析客户交易记录，构建用户-产品交互矩阵
 实现推荐算法（如协同过滤、基于内容的推荐、混合推荐）
 训练模型并评估推荐效果（准确率、召回率等）
 撰写报告中“3.3 模型设计”中关于推荐算法的部分
 对应目标：目标 (5)
+
 ✅ 成员5：数据可视化设计与实现
-
-工作内容：
-
 使用Matplotlib/Seaborn/Plotly等工具绘制图表
 可视化用户交易行为、产品热度、推荐结果等
 设计并实现一个简单的推荐结果展示界面（可选）
 撰写报告中“第4章 结果总结与解读”中的图表部分
 对应目标：目标 (6)
+
 ✅ 成员6：系统集成与程序测试
-
-工作内容：
-
 整合各模块代码，确保程序能完整运行
 编写异常处理与输入验证逻辑
 测试系统功能，修复bug
 撰写“程序文档”部分（附录8.2）与代码注释
 对应目标：目标 (2)、(5)
+
 ✅ 成员7：报告撰写与项目管理
 
 
